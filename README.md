@@ -38,6 +38,8 @@ Special Characters in your name are currently not supported.
 If your Response is `Player not in Database`, check if your name corresponds with your name that your listed with on lolpros and doesn't have any special characters.
 When you're sure you've done everything right, either wait a few days or weeks and retry, send me a message or open an issue in this repository.
 
+You can contact me on Discord @Poldi or on twitch @Poldikeller.
+
 This API might fail sometimes, as lolpros might be loading slow and most chatbots have a timeout of 10 Seconds. This might Result in your chatbot responding with an Error.
 Just try again.
 
